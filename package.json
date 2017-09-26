@@ -1,0 +1,19 @@
+{
+  "name": "test-travis",
+  "version": "1.0.0",
+  "description": "test-travis",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpnet3/test-travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpnet3/test-travis/issues"
+  },
+  "homepage": "https://github.com/tpnet3/test-travis#readme"
+}
